@@ -20,6 +20,6 @@ Interacting will no longer be so unintuitive!
 ## Marker Generator for AR.js
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 
-![robot](https://user-images.githubusercontent.com/62328337/176666798-46f5142b-95cd-4475-8726-297b08d6e6e7.png)
+### Example of custom AR marker
 
 Progetto di Laboratorio di Realtà Aumentata - UNIUD a.a. 2021/2022
