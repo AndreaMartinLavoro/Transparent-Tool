@@ -6,7 +6,7 @@ Interacting will no longer be so unintuitive!
 ![version](https://user-images.githubusercontent.com/85477443/172361412-2ab5afe1-88ce-461a-baf6-e1d0c99b868c.svg)
 ![release](https://user-images.githubusercontent.com/85477443/172361422-956d4931-ec03-4a0c-8e76-c38f72210420.svg)
 
-## get started
+## Get started
 
 ### check that you have installed node.js on your computer
     node -v
@@ -18,5 +18,8 @@ Interacting will no longer be so unintuitive!
     npm start
     
 ## Marker Generator for AR.js
+https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+
+![robot](https://user-images.githubusercontent.com/62328337/176666798-46f5142b-95cd-4475-8726-297b08d6e6e7.png)
 
 Progetto di Laboratorio di Realtà Aumentata - UNIUD a.a. 2021/2022
